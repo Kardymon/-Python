@@ -1,0 +1,5 @@
+n = str(input("Введите число: "))
+a = int(n + n)
+b = int(n + n + n)
+c = int(n)
+print(f"сумма чисел n+nn+nnn: {c + a + b}")
